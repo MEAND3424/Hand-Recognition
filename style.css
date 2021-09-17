@@ -1,0 +1,21 @@
+body{
+    background-color: rgb(59, 97, 3);
+    color: white;
+}
+.name_of_object{
+    color: rgb(139, 72, 48);
+}
+#camera{
+    border-style: solid;
+    border-color: red;
+    width: 350px;
+    height: 300px;
+}
+#result_object_name{
+    color: rgb(102, 135, 235);
+
+}
+#reslut_object_accuracy{
+    color: rgb(231, 145, 83);
+    font-size: 20px;
+}
